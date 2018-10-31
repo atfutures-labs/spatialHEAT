@@ -22,7 +22,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-[![Build Status](https://travis-ci.org/ATFutures/spatialHEAT)](https://travis-ci.org/ATFutures/spatialHEAT) 
+[![Build Status](https://travis-ci.org/ATFutures/spatialHEAT.svg)](https://travis-ci.org/ATFutures/spatialHEAT) 
 [![Project Status: Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
 
 
