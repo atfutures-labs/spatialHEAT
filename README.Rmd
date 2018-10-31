@@ -1,0 +1,33 @@
+---
+title: "spatialheat"
+output:
+  rmarkdown::html_vignette:
+    self_contained: no
+
+  md_document:
+    variant: markdown_github
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r opts, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  warning = TRUE,
+  message = TRUE,
+  width = 120,
+  comment = "#>",
+  fig.retina = 2,
+  fig.path = "README-"
+)
+```
+
+[![Build Status](https://travis-ci.org/ATFutures/spatialHEAT)](https://travis-ci.org/ATFutures/spatialHEAT) 
+[![Project Status: Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+
+
+# Spatial version of WHO HEAT tool (prototype only)
+
+Spatialized version of WHO's [Health Economic Assessment
+Tool](https://www.heatwalkingcycling.org) (HEAT).
+
