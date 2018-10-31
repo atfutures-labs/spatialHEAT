@@ -17,6 +17,15 @@ matrix:
           dist: trusty
         - os: osx
           r: release
+          before_install: ''
+          disable_homebrew: true
+        - os: osx
+          r: devel
+          before_install: ''
+          disable_homebrew: true
+    allow_failures: # temporarily enabled. TODO: disable
+        - os: osx
+          r: release
         - os: osx
           r: devel
 
