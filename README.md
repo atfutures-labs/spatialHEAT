@@ -1,7 +1,5 @@
-# Spatial distribution of pollutant concentrations 
+# Spatial version of WHO HEAT tool (prototype only)
 
-Spatialized version of HEAT, as outlined in the WHO II Report 
-
- 
-
+Spatialized version of WHO's [Health Economic Assessment
+Tool](https://www.heatwalkingcycling.org) (HEAT).
 

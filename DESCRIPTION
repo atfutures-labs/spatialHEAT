@@ -1,0 +1,11 @@
+Package: spatialHEAT
+Type: Package
+Title: Spatialised version of WHO HEAT tool
+Version: 1.0
+Date: 2018-10-31
+Authors@R: 
+    person("Mark", "Padgham", email="mark.padgham@email.com", role=c("aut", "cre"))
+Description: Spatialised version of WHO HEAT tool.
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 6.1.0
